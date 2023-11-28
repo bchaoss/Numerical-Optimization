@@ -1,6 +1,6 @@
 # Numerical-Optimization
 
-Basic numerical optimization algorithms implementation with examples.
+Basic numerical optimization algorithms implementation with examples. All the notebooks can be opened in `Colab`.
 
 Steepest descent method;  
 Newton method;  
